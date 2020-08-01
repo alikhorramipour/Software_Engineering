@@ -1,0 +1,34 @@
+user profile{
+	total active days
+	most active time of the day
+	most viewd subject(dog's paw)
+	
+	interests you follow
+
+	skills
+
+	currently learning
+	completely learned
+}
+
+courses{
+	sw dev
+	it ops
+	creative pro
+	business pro
+	data pro
+	info and cybersecurity
+	arch and construction
+	manufacture and design
+}
+
+website{
+	home
+	browse
+	feed paths
+	mentors
+	channels
+	bookmarks
+	notes
+
+}
